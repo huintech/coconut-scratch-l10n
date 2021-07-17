@@ -1,5 +1,6 @@
 # scratch-arduino-l10n
-
+[![](https://github.com/OttawaSTEM/scratch-arduino-l10n/actions/workflows/release.yml/badge.svg?branch=main)](https://github.com/OttawaSTEM/scratch-arduino-l10n/actions/workflows/release.yml)
+![](https://img.shields.io/github/license/ottawastem/scratch-arduino-gui)  
 Translation of all Scratch Arduino projects is managed on the Transifex service: https://www.transifex.com/llk/public
 
 This repository collects translations submitted to the Scratch Arduino projects on Transifex. **Please do not submit PRs. If you would like to contribute translations, please sign up to translate on Transifex.**
