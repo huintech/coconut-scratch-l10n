@@ -1,6 +1,6 @@
 {
     "name": "scratch-arduino-l10n",
-    "version": "3.10.6",
+    "version": "3.10.7",
     "description": "Localization for the Scratch Arduino components",
     "main": "./dist/l10n.js",
     "browser": "./src/index.js",
