@@ -1,6 +1,6 @@
 # scratch-arduino-l10n
 [![](https://github.com/OttawaSTEM/scratch-arduino-l10n/actions/workflows/release.yml/badge.svg?branch=main)](https://github.com/OttawaSTEM/scratch-arduino-l10n/actions/workflows/release.yml)
-![](https://img.shields.io/github/license/ottawastem/scratch-arduino-gui)  
+![](https://img.shields.io/github/license/ottawastem/scratch-arduino)  
 Translation of all Scratch Arduino projects is managed on the Transifex service: https://www.transifex.com/llk/public
 
 This repository collects translations submitted to the Scratch Arduino projects on Transifex. **Please do not submit PRs. If you would like to contribute translations, please sign up to translate on Transifex.**
@@ -15,7 +15,7 @@ npm install --save-dev scratch-arduino-l10n
 #### Basic Use
 ```js
 import locales, {localeData, isRtl} from 'scratch-l10n';
-import editorMessages from 'scratch-arduino-l10n/locales/editor-messages';
+import editorMessages from 'scratch-arduino-l10n/locales/editor-msgs';
 ```
 * `locales`: currently supported locales for the Scratch Arduino project
 * `isRtl`: function that returns true if the locale is one that is written right-to-left
