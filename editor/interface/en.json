@@ -270,7 +270,7 @@
     "gui.costumeTab.addSurpriseCostume": "Surprise",
     "gui.costumeTab.addFileBackdrop": "Upload Backdrop",
     "gui.costumeTab.addFileCostume": "Upload Costume",
-    "gui.deviceLibrary.chooseADevice": "Choose an Device",
+    "gui.deviceLibrary.chooseADevice": "Choose a Device",
     "gui.deviceLibrary.deviceUrl": "Enter the URL of the device",
     "gui.deviceLibrary.arduinoTag": "Arduino",
     "gui.deviceLibrary.microPythonTag": "MicroPython",
