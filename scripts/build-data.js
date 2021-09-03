@@ -63,7 +63,7 @@ const combineJson = (component) => {
 };
 
 // generate the blocks and desktop messages: files are plain key-value JSON
-let keyValueComponents = ['blocks', 'desktop', 'link-desktop'];
+let keyValueComponents = ['blocks', 'desktop'];
 keyValueComponents.forEach((component) => {
     let messages = combineJson(component);
     let data =

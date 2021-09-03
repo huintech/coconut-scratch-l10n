@@ -7,7 +7,7 @@
     "gui.backpack.costumeLabel": "costume",
     "gui.backpack.soundLabel": "sound",
     "gui.backpack.scriptLabel": "script",
-    "gui.backpack.spriteLabel": "sprite",    
+    "gui.backpack.spriteLabel": "sprite",
     "gui.backpack.header": "Backpack",
     "gui.backpack.errorBackpack": "Error loading backpack",
     "gui.backpack.loadingBackpack": "Loading...",
