@@ -578,5 +578,6 @@
     "gui.sharedMessages.replaceProjectWarning": "Replace contents of the current project?",
     "gui.sharedMessages.clearCacheWarning": "Make sure you want to clear cache and restart?",
     "gui.sharedMessages.loadFromComputerTitle": "Load from your computer",
-    "gui.gui.defaultProjectTitle": "Scratch Arduino Project"
+    "gui.gui.defaultProjectTitle": "Scratch Arduino Project",
+    "gui.device.coconut.description": "Coconut-s, get started with robot project."
 }
