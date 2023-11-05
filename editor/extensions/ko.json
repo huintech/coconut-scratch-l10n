@@ -388,11 +388,5 @@
     "wedo2.whenTilted": "when tilted [TILT_DIRECTION_ANY]",
     "coconut.category.name": "Coconut",
     "coconut.moveMotors": "move [DIRECTION_FB]",
-    "coconut.dir_forward": "Forward",
-    "coconut.dir_backward": "Backward",
-    "coconut.stopMotors": "stop motor",
-    "coconut.turnMotors": "turn [DIRECTION_LR]",
-    "coconut.dir_left": "Left",
-    "coconut.dir_right": "Right",
-    "coconut.moveGoTimes": "move [DIRECTION_FB] for [TIME_SEC] second(s)"
+    "coconut.stopMotors": "정지"
 }

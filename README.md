@@ -10,6 +10,9 @@ This repository collects translations submitted to the Scratch Arduino projects 
 #### Installation
 ```bash
 npm install --save-dev scratch-arduino-l10n
+
+npm run-script build
+# locales 생성
 ```
 
 #### Basic Use
