@@ -27,7 +27,7 @@ const locales = {
     // 'ga': {name: 'Gaeilge'},
     // 'gd': {name: 'Gàidhlig'},
     // 'gl': {name: 'Galego'},
-    // 'ko': {name: '한국어'},
+    'ko': {name: '한국어'},
     // 'hy': {name: 'Հայերեն'},
     // 'he': {name: 'עִבְרִית'},
     // 'hr': {name: 'Hrvatski'},
