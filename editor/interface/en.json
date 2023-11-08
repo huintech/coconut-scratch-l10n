@@ -1,5 +1,5 @@
 {
-    "gui.alerts.lostPeripheralConnection": "Scratch Arduino lost connection to {extensionName}.",
+    "gui.alerts.lostPeripheralConnection": "Scratch lost connection to {extensionName}.",
     "gui.alerts.tryAgain": "Try Again",
     "gui.alerts.download": "Download",
     "gui.connection.reconnect": "Reconnect",
@@ -144,6 +144,8 @@
     "gui.menuBar.turboModeOn": "Turn on Turbo Mode",
     "gui.menuBar.noDeviceSelected": "No device selected",
     "gui.menuBar.noConnection": "Unconnected",
+    "gui.menuBar.deviceConnected": "Device is connected",
+    "gui.menuBar.linkDisconnectedTooltip": "Scratch Arduino Link is not installed or running!",
     "gui.menuBar.file": "File",
     "gui.menuBar.downloadToComputer": "Save to your computer",
     "gui.menuBar.downloadFirmware": "Download firmware",
@@ -313,11 +315,11 @@
     "gui.alerts.cloudInfoLearnMore": "Learn more.",
     "gui.alerts.importing": "Importing…",
     "gui.alerts.workspaceIsEmpty": "Workspace is empty",
-    "gui.alerts.workspaceIsNotEmpty": "Workspace is not empty, plese clean you workspace first",
+    "gui.alerts.workspaceIsNotEmpty": "Workspace is not empty, please clean you workspace first",
     "gui.alerts.uploadError": "Upload error",
     "gui.alerts.uploadSuccess": "Upload success",
-    "gui.alerts.selectADeviceFirst": "Plese select a device first",
-    "gui.alerts.connectAPeripheralFirst": "Plese connect a peripheral first",
+    "gui.alerts.selectADeviceFirst": "Please select a device first",
+    "gui.alerts.connectAPeripheralFirst": "Please connect a peripheral first",
     "gui.defaultProject.chirp": "Chirp",
     "gui.defaultProject.variable": "my variable",
     "gui.howtos.intro-move-sayhello-hat.name": "Getting Started",
@@ -579,5 +581,7 @@
     "gui.sharedMessages.clearCacheWarning": "Make sure you want to clear cache and restart?",
     "gui.sharedMessages.loadFromComputerTitle": "Load from your computer",
     "gui.gui.defaultProjectTitle": "Scratch Arduino Project",
-    "gui.device.coconut.description": "Coconut-s, get started with robot project."
+    "gui.connection.deviceConnected": "Device Connected",
+    "gui.device.coconut.description": "Coconut-s, get started with robot project.",
+    "gui.device.coconut.connectingMessage": "Connecting"
 }
