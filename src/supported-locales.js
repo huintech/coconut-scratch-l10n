@@ -18,7 +18,7 @@ const locales = {
     // 'de': {name: 'Deutsch'},
     // 'et': {name: 'Eesti'},
     // 'el': {name: 'Ελληνικά'},
-    'en': {name: 'English'},
+    en: {name: 'English'},
     // 'es': {name: 'Español'},
     // 'es-419': {name: 'Español Latinoamericano'},
     // 'eu': {name: 'Euskara'},
@@ -27,7 +27,7 @@ const locales = {
     // 'ga': {name: 'Gaeilge'},
     // 'gd': {name: 'Gàidhlig'},
     // 'gl': {name: 'Galego'},
-    'ko': {name: '한국어'},
+    ko: {name: '한국어'}
     // 'hy': {name: 'Հայերեն'},
     // 'he': {name: 'עִבְרִית'},
     // 'hr': {name: 'Hrvatski'},
