@@ -282,6 +282,7 @@
     "gui.deviceLibrary.arduinoTag": "Arduino",
     "gui.deviceLibrary.microPythonTag": "MicroPython",
     "gui.deviceLibrary.kitTag": "Kit",
+    "gui.deviceLibrary.robotTag": "Robot",
     "gui.extensionLibrary.chooseAnExtension": "Choose an Extension",
     "gui.extensionLibrary.extensionUrl": "Enter the URL of the extension",
     "gui.library.shieldTag": "Shield",
