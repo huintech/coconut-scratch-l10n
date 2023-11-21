@@ -146,8 +146,8 @@
     "gui.menuBar.noConnection": "Unconnected",
     "gui.menuBar.deviceConnected": "Device is connected",
     "gui.menuBar.deviceDisconnected": "Device is not connected!",
-    "gui.menuBar.linkDisconnectedTooltip": "Scratch Arduino Link is not installed or running!",
-    "gui.menuBar.linkConnectedTooltip": "Scratch Arduino Link is connected",
+    "gui.menuBar.linkDisconnectedTooltip": "Scratch Link is not installed or running!",
+    "gui.menuBar.linkConnectedTooltip": "Scratch Link is connected",
     "gui.menuBar.deviceSelectTooltip": "Select device",
     "gui.menuBar.file": "File",
     "gui.menuBar.downloadToComputer": "Save to your computer",
@@ -586,8 +586,9 @@
     "gui.sharedMessages.replaceProjectWarning": "Replace contents of the current project?",
     "gui.sharedMessages.clearCacheWarning": "Make sure you want to clear cache and restart?",
     "gui.sharedMessages.loadFromComputerTitle": "Load from your computer",
-    "gui.gui.defaultProjectTitle": "Scratch Arduino Project",
+    "gui.gui.defaultProjectTitle": "Scratch Project",
     "gui.connection.deviceConnected": "Device Connected",
-    "gui.device.coconut.description": "Coconut-s, get started with robot project.",
+    "gui.device.coconut.device.name": "Coconut-S",
+    "gui.device.coconut.description": "Coconut-S, get started with robot project.",
     "gui.device.coconut.connectingMessage": "Connecting"
 }
