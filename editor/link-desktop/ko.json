@@ -1,6 +1,6 @@
 {
-    "index.checkUpdate": "check update",
-    "index.clearCacheAndRestart": "clear cache and restart",
-    "index.exit": "exit",
-    "index.installDiver": "install driver"
+    "index.checkUpdate": "업데이트 확인",
+    "index.clearCacheAndRestart": "캐시 지우기 및 재시작",
+    "index.exit": "종료",
+    "index.installDiver": "드라이버 설치"
 }
