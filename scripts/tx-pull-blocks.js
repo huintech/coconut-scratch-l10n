@@ -30,7 +30,7 @@ import async from 'async';
 import locales, {localeMap} from '../src/supported-locales.js';
 
 // Globals
-const PROJECT = 'scratch-arduino-editor';
+const PROJECT = 'scratch-editor';
 const RESOURCE = 'blocks';
 const OUTPUT_DIR = path.resolve(args[0]);
 const MODE = {mode: 'reviewed'};
