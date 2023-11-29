@@ -96,6 +96,16 @@ let editorData =
     ';\n';
 fs.writeFileSync(MSGS_DIR + 'editor-msgs.js', editorData);
 
+// generate the link-desktop messages: files are plain key-value JSON
+let keyValue = 'link-desktop';
+let messages = combineJson(keyValue);
+let data =
+    '// GENERATED FILE:\n' +
+    'module.exports = ' +
+    JSON.stringify(messages, null, 2) +
+    ';\n';
+fs.writeFileSync(MSGS_DIR + 'link-desktop-msgs.js', data);
+
 if (missingLocales.length > 0) {
     process.stdout.write('missing locales:\n' + missingLocales.toString());
     process.exit(1);
