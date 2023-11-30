@@ -31,9 +31,7 @@ const freshdeskLocale = locale => {
         'pt': 'pt-PT',
         'pt_BR': 'pt-BR',
         'ru': 'ru-RU',
-        'sv': 'sv-SE',
-        'zh_CN': 'zh-CN',
-        'zh_TW': 'zh-TW'
+        'sv': 'sv-SE'
     };
     return localeMap[locale] || locale;
 };
