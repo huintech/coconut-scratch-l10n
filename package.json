@@ -1,6 +1,6 @@
 {
     "name": "@huintech/coconut-scratch-l10n",
-    "version": "0.8.0",
+    "version": "0.8.1",
     "private": false,
     "description": "Localization for the Coconut Scratch components",
     "main": "./dist/l10n.js",
