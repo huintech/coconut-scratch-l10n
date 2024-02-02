@@ -540,6 +540,8 @@
     "gui.sharedMessages.loadFromComputerTitle": "컴퓨터에서 가져오기",
     "gui.gui.defaultProjectTitle": "스크래치 프로젝트",
     "gui.connection.deviceConnected": "연결되었습니다",
+    "gui.device.unselectDevice.name": "장치 선택 안 함",
+    "gui.device.unselectDevice.description": "장치 선택을 취소하고 실시간 프로그래밍 모드로 돌아갑니다.",
     "gui.device.coconut.device.name": "코코넛-S",
     "gui.device.coconut.description": "코코넛-S와 프로젝트를 시작해 보세요.",
     "gui.device.coconut.connectingMessage": "연결 중"
