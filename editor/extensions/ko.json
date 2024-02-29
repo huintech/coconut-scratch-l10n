@@ -221,7 +221,7 @@
     "arduinoMega2560.serial.multiSerialBegin": "serial [NO] begin baudrate [VALUE]",
     "arduinoMega2560.serial.multiSerialPrint": "serial [NO] print [VALUE] [EOL]",
     "arduinoMega2560.serial.multiSerialReadAByte": "serial [NO] read a byte",
-    "arduinoPeripheral.connection.connectFirmataTimeout": "Timeout when try to connect firmata, please download the firmware first",
+    "arduinoPeripheral.connection.connectFirmataTimeout": "펌웨어를 연결 시간이 초과되었습니다. 펌웨어를 먼저 다운로드하십시오.",
     "arduino.InterrupModeMenu.changeEdge": "change edge",
     "arduino.InterrupModeMenu.fallingEdge": "falling edge",
     "arduino.InterrupModeMenu.low": "low",
