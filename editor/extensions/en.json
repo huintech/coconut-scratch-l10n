@@ -108,7 +108,7 @@
     "coconut.melodyMenu.butterfly": "Butterfly",
     "coconut.hidden.followLine": "follow the line",
     "coconut.hidden.avoidMode": "avoid mode",
-    "coconut.hidden.showCharacterDraw": "LED Matrix Character [MATRIX]",
+    "coconut.hidden.showCharacterDraw": "LED Matrix Character [MATRIX8]",
     "coconut.category.sensor": "Sensor",
     "coconut.sensor.moveExtMotors": "set DC Motor [DIRECTION_EXT] speed [MOTOR_SPEED]",
     "coconut.sensor.stopDCMotors": "stop DC Motors",

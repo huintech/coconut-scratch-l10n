@@ -108,7 +108,7 @@
     "coconut.melodyMenu.butterfly": "나비야",
     "coconut.hidden.followLine": "선 따라가기",
     "coconut.hidden.avoidMode": "어보이드 모드",
-    "coconut.hidden.showCharacterDraw": "도트매트릭스 문자 그리기 [MATRIX]",
+    "coconut.hidden.showCharacterDraw": "도트매트릭스 문자 그리기 [MATRIX8]",
     "coconut.category.sensor": "센서",
     "coconut.sensor.moveExtMotors": "DC모터 [DIRECTION_EXT](으로) 움직이기 속도 [MOTOR_SPEED]",
     "coconut.sensor.stopDCMotors": "DC모터 정지하기",
