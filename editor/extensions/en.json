@@ -117,6 +117,7 @@
     "coconut.sensor.moveDCMotorLR": "Move to left DC motor speed [LEFT_DC_MOTOR_SPEED] right DC motor speed [RIGHT_DC_MOTOR_SPEED]",
     "coconut.sensor.runExtServo": "set servo pin [PINS] angle as [SERVO_ANGLE]",
     "coconut.sensor.extLedOn": "set external LED pin [PINS] for [TIME_SEC] second(s)",
+    "coconut.sensor.extLedOff": "turn off external LED pin [PINS]",
     "coconut.sensor.extSpeakerOn": "set Speaker pin [PWM_PIN] frequency [N_FREQUENCY] (Hz) duration [TIME_SEC] seconds",
     "coconut.sensor.extSpeakerOff": "stop Speaker pin [PWM_PIN]",
     "coconut.sensor.getTouchSensor": "Touch sensor [PINS]",

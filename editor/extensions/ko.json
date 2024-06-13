@@ -117,6 +117,7 @@
     "coconut.sensor.moveDCMotorLR": "외부DC모터 왼쪽 속도 [LEFT_DC_MOTOR_SPEED] 오른쪽 속도 [RIGHT_DC_MOTOR_SPEED] 으로 움직이기",
     "coconut.sensor.runExtServo": "서보모터 연결 [PINS] 각도 [SERVO_ANGLE]",
     "coconut.sensor.extLedOn": "외부 LED 설정 [PINS] [TIME_SEC] 초 동안 켜기",
+    "coconut.sensor.extLedOff": "외부 LED [PINS] 끄기",
     "coconut.sensor.extSpeakerOn": "외부 스피커 설정 [PWM_PIN] [N_FREQUENCY] Hz로 [TIME_SEC] 초 동안 소리내기",
     "coconut.sensor.extSpeakerOff": "외부 스피커 [PWM_PIN] 끄기",
     "coconut.sensor.getTouchSensor": "터치센서 [PINS]",
